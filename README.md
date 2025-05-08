@@ -1,4 +1,4 @@
-# Rental-Management - Database Schema
+# Property-Management - Database Schema
 
 This project defines the SQL schema for a Property Management System. It supports roles and permissions, property and unit management, tenant handling, billing, payments, maintenance, and lease tracking.
 
